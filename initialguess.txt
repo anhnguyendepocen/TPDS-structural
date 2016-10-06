@@ -1,0 +1,41 @@
+-1.77381278					alpha constant wheat	-2.17
+0.38116342					alpha constant sugar 0.38116342	
+-0.22506204					alpha constant kerosene	0.22506204
+0.03597435					alpha hhsize wheat	-0.03597435	
+-0.30430035					alpha hhsize sugar	 0.10430035
+-1.38400585					alpha hhize kero	-2.88400585 
+-0.2						hh produced wheat (log xi wheat mean) 0.0
+-0.53699756					gas connection -0.83699756
+0.353924					owns 1 lpg  0.853924
+0.727104					owns more than 2 lpg 1.02710
+-1.02516596					fps distrust about weight usage	 -0.32516596
+2.74877074					fps open hrs btw 25 and 50 hrs	
+0.59728394					fps open hrs btw 50 and 75 hrs	
+-0.392918					fps open hrs longer than 75 hrs	
+2.65728941					travel time constant fps -2.45728941
+3.47512123					travel time constant market
+3.58811379					travel time constant emitra 8.58811379
+3.53445939					travel time constant bank -0.53445939		
+1.47136596					travel time slope fps distance	
+1.42590784					travel time slope market distance	
+2.83755117					travel time slope e-mitra density 	
+1.52694887					travel time slope bank distance	
+0.97							mean participation cost -0.11813203	
+-1.05852872						std of participation cost 0.05852872
+2.0								alpha variance wheat 1.5
+-0.3								alpha variance sugar
+1.5								alpha variance kerosene 1.2
+0.83673654						storage shock variance wheat 0.63673654
+0.53181445						storage shock variance sugar -0.53181445	
+0.08429115						storage shock variance kerosene -1.08429115		
+0.0								corr storage shock for wheat and sugar -2.0
+0.0								corr storage shock for wheat and kero -2.3
+1.0								price shock for wheat
+1.0								price shock for sugar
+1.0								price shock for kerosene
+1.0								corr price shock for wheat and sugar -2.0
+1.0								corr price shock for wheat and kero -2.3
+-0.56018151						measurement error variance wheat 
+-0.74555504						measurement error variance sugar
+-2.51351701						measurement error variance kero
+-0.75483467					categorical error probability	
