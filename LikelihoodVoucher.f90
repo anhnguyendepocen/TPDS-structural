@@ -28,7 +28,7 @@ REAL(8), PARAMETER :: smallNumber = 1.0d-15
 		    xi = DEXP(ximean + ximat(:,monthi,xii))
             pm = DEXP(logpm + pmat(:,monthi,xii))
             
-            IF ( pi==1 .AND. xii == 1 .AND. mui==1) THEN
+            IF ( xii == 1 .AND. mui==1) THEN
                 xi = DEXP(ximean + ximat(:,monthi,indi))
                 pm = DEXP(logpm + pmat(:,monthi,indi))
             END IF
