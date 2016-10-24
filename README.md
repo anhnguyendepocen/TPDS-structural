@@ -30,4 +30,14 @@ For treatment households, (1) call "SolveParticipationProblem" to compute the pa
 For control households, just call "LikelihoodNoVoucher". 
 
 
+---------
+Simulation.f90
+---------
 
+Run three different policy simulations.
+
+(1) Compute cash equivalent value of in-kind transfers for 1 month of switch to cash only and for permanent switch to cash only
+
+(2) Compute welfare gain from having 5 e-Mitra kiosks every villages + switching to cash only permanently
+
+(3) Compute welfare gain from correcting all scales used by FPS dealers and enforcing longer than 75 hours of FPS open hours.
