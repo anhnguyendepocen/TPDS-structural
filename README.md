@@ -1,6 +1,15 @@
 # TPDS
 Solve households' choice to (1) participate in the experiment, (2) exchange coupons, (3) purchase commodities to fit the observed choices in Rajasthan choice experiment data.
 
+
+
+---------
+globvar.f90
+---------
+
+Declare all parameter values and data matrices that will be used throughout the estimation and the simulation called by the main file.
+
+
 ---------
 Main.f90
 ---------
