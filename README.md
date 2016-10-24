@@ -15,7 +15,9 @@ Call "theta_to_param" to map the numbers in "initiaguess.txt" to the model param
 
 Call "ReadData" to read in the data.
 
-Call "Likelihood" for a simulation or call "dfpmin" for the estimation of "Likeihood" on the desktop. "dfpmin" is a subroutine declared in "minimization.f90".
+Call "Likelihood" for one-time computation of likelihood value or call "dfpmin" for the estimation of "Likeihood" on the desktop. "dfpmin" is a subroutine declared in "minimization.f90". 
+
+Call "Simulation" to run counterfactual policy simulation given the parameter values.
 
 ---------
 Likelihood.f90
